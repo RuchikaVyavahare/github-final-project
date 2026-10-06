@@ -1,0 +1,9 @@
+$ curl -s https://api.github.com/repos/RuchikaVyavahare/github-final-project
+
+{
+  "full_name": "RuchikaVyavahare/github-final-project",
+  "fork": true,
+  "parent_full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+  "parent_html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+  "html_url": "https://github.com/RuchikaVyavahare/github-final-project"
+}
