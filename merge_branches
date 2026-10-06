@@ -1,8 +1,9 @@
-git checkout main
-Switched to branch 'main'
+$ git checkout main
+Your branch is up to date with 'origin/main'.
+Already on 'main'
 
-git merge bug-fix-typo
-Updating abc1234..def5678
+$ git merge bug-fix-typo
+Updating 26123b1..03b54be
 Fast-forward
- README.md | 1 +
- 1 file changed, 1 insertion(+)
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
