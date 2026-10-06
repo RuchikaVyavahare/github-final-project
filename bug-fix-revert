@@ -1,0 +1,14 @@
+curl -L https://api.github.com/repos/RuchikaVyavahare/mcino-Introduction-to-Git-and-GitHub/pulls
+
+[
+  {
+    "number": 1,
+    "state": "closed",
+    "title": "Bug fix typo",
+    "head": {
+      "repo": {
+        "full_name": "RuchikaVyavahare/mcino-Introduction-to-Git-and-GitHub"
+      }
+    }
+  }
+]
